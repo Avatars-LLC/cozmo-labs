@@ -16,7 +16,8 @@ To register face
 
 ## 01_happy_new_year.py
 
-Use this program to make `Cozmo` greet `Happy New Year` with person name. Here's how it looks - https://youtu.be/8w1BQ_obpNM
+Use this program to make `Cozmo` greet `Happy New Year` with person name. Here's how it looks
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/8w1BQ_obpNM/0.jpg)](http://www.youtube.com/watch?v=8w1BQ_obpNM "Cozmo, Personalized Happy New Year!")
 
 * run this program `./01_happy_new_year.py`
 * Appear in front of Cozmo camera
